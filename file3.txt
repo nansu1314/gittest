@@ -1,3 +1,8 @@
 file3
+<<<<<<< HEAD
 1
 
+=======
+file3
+file3
+>>>>>>> a15818ea11991fa25bde4b762ad8ce78c580dfc4
